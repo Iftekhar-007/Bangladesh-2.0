@@ -185,6 +185,7 @@ header{
 .titleh1{
     font-size: 52px;
     margin: 24px 0px;
+    line-height: 48px;
 }
 
 .banner-button{
@@ -393,6 +394,10 @@ background: rgb(247, 235, 207);
 
 /* opinion css start */
 
+.opinion{
+  margin-bottom: 80px;
+}
+
 .opinionh2{
   font-size: 40px;
   line-height: 48px;
@@ -453,4 +458,82 @@ background: rgb(247, 235, 207);
 }
 /* opinion css end */
 
+/* recent news css start */
+
+.news-title{
+  font-size: 40px;
+  line-height: 48px;
+  color: rgb(14, 14, 14);
+}
+
+.newsintro{
+  font-size: 16px;
+  line-height: 24px;
+  color: rgba(14, 14, 14, 0.7);
+  margin: 24px 0px;
+}
+
+.newscard1{
+  border-radius: 24px;
+  background: rgb(255, 255, 255);
+  padding: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 32px;
+}
+
+.cardh3{
+  color: rgba(14, 14, 14, 0.8);
+  font-size: 32px;
+  line-height: 38px;
+  margin-bottom: 12px;
+}
+
+.jazeera{
+  margin-bottom: 12px;
+}
+
+.date{
+  color: rgba(14, 14, 14, 0.7);
+  font-size: 16px;
+  line-height: 24px;
+  margin-bottom: 12px;
+}
+
+.cardp{
+  color: rgba(14, 14, 14, 0.7);
+  font-size: 16px;
+  line-height: 24px;
+  margin-bottom: 32px;
+}
+
+.news-button{
+  border-radius: 8px;
+  background: rgb(0, 106, 80);
+  padding: 13px 16px;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  line-height: 22px;
+  border: none;
+ 
+}
+
+.news-button:hover{
+  color:rgb(0, 106, 80) ;
+  background-color: #ffffff;
+  cursor: pointer;
+  box-shadow: 0px 0px 2px;
+}
+
+.cardimg img{
+  border-radius: 24px;
+}
+
+.news-card{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+/* recent nws css end */
 /* main part css end */
