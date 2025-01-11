@@ -637,4 +637,75 @@ background: rgb(247, 235, 207);
   cursor: pointer;
 }
 /* donate part css end */
+
+/* subscription start */
+
+.subscription{
+  margin: 0px auto 80px auto;
+  text-align: center;
+  padding: 80px 100px;
+  border-radius: 24px;
+  background: rgb(198, 228, 214);
+}
+
+.subsh2{
+  color: rgb(14, 14, 14);
+  font-size: 40px;
+  line-height: 48px;
+}
+
+.subsp{
+  color: rgba(14, 14, 14, 0.7);
+  font-size: 16px;
+  line-height: 24px;
+  margin: 24px 0px 32px 0px;
+}
+
+.subs-formm{
+  display: flex;
+  gap: 0px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.spam{
+  color: rgba(14, 14, 14, 0.7);
+  font-size: 16px;
+  line-height: 24px;
+  margin-top: 25px;
+}
+
+.mail{
+  width: 600px;
+  border:none;
+  padding: 18px 40px;
+  border-radius: 8px 0px 0px 8px;
+}
+
+.sub-button{
+  width: 150px;
+  border: none;
+  padding: 17px 34px;
+  border-radius: 0px 8px 8px 0px;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  line-height: 22px;
+  background-color: rgb(0, 106, 80);
+}
+
+.sub-button:hover{
+  color:rgb(0, 106, 80);
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 0px 5px;
+}
+
+.subs-formm [placeholder]{
+  color: rgba(14, 14, 14, 0.3);
+  font-size: 16px;
+  line-height: 20px;
+  font-family: "Fira Sans", serif;
+  font-weight: 400;
+}
+/* subscription ends  */
 /* main part css end */
