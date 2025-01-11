@@ -139,6 +139,7 @@ header{
 .logo{
     font-size: 32px;
     color: rgba(14, 14, 14, 1);
+    line-height: 38px;
 }
 
 .menu-button{
@@ -709,3 +710,31 @@ background: rgb(247, 235, 207);
 }
 /* subscription ends  */
 /* main part css end */
+
+/* footer css start */
+
+footer{
+  padding: 50px 160px;
+  /* box-shadow: 0px 0px 5px; */
+  background-color: #ffffff;
+}
+.footh3{
+  font-size: 32px;
+    color: rgba(14, 14, 14, 1);
+    line-height: 38px;
+    text-align: center;
+}
+
+.footer-container{
+  width: 1140px;
+  margin: 0px auto;
+}
+
+.foot-icon{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 23px;
+}
+/* footer css end */
