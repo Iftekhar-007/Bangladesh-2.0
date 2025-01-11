@@ -209,3 +209,54 @@ header{
 /* banner part css end  */
 
 /* header part css ends */
+
+/* main part css start */
+
+main{
+  width: 1280px;
+  margin: 80px auto;
+}
+
+/* pillars part css start */
+.pillarh2{
+  font-size: 40px;
+  line-height: 48px;
+  color: rgb(14, 14, 14);
+}
+
+.pillar-card1{
+  background-color: rgb(255, 255, 255);
+  /* border: .5px gray;
+  border-style:solid; */
+  /* box-shadow: 0px 0px 2px; */
+  border: 1px solid rgba(14, 14, 14, 0.15);
+  padding: 24px;
+  border-radius: 16px;
+}
+
+.pillar-box{
+  display: flex;
+  gap: 24px;
+  margin-top: 32px;
+}
+
+.cardtitle{
+  font-size: 20px;
+  line-height: 24px;
+  color: rgba(14, 14, 14, 0.8);
+  margin: 24px 0px;
+}
+
+.pillar-container{
+  margin-bottom: 80px;
+}
+
+.cardintro{
+  font-size: 16px;
+  font-weight: 400;
+  color: rgba(14, 14, 14, 0.7);
+  line-height: 24px;
+}
+/* pillars parts css ends */
+
+/* main part css end */
