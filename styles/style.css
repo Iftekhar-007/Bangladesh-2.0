@@ -536,4 +536,78 @@ background: rgb(247, 235, 207);
   gap: 20px;
 }
 /* recent nws css end */
+
+/* donamte part css start */
+
+.donate{
+  width: 1140px;
+  margin: 80px auto;
+  text-align: center;
+}
+
+.donateh2{
+  color: rgb(14, 14, 14);
+  font-size: 40px;
+  line-height: 48px;
+  /* text-align: center; */
+}
+
+.donatep{
+  color: rgba(14, 14, 14, 0.7);
+  font-size: 16px;
+  line-height: 24px;
+  /* text-align: center; */
+  margin: 24px 0px 32px 0px;
+}
+
+.money-buttons [type="submit"]{
+  padding: 40px;
+  box-sizing: border-box;
+  border: 1px solid rgba(14, 14, 14, 0.15);
+  border-radius: 16px;
+  background: rgb(255, 255, 255);
+}
+
+.money-buttons [type="submit"]:hover{
+  background-color:rgb(198, 228, 214);;
+}
+
+.exceptional{
+  background-color: rgb(198, 228, 214) !important;
+}
+
+.money-buttons [value]{
+  color: rgba(14, 14, 14, 0.8);
+  font-family: "Fira Sans", serif;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 48px;
+  text-align: left;
+}
+
+.money-buttons{
+  display:flex ;
+  justify-content: center;
+  gap: 20px;
+  align-items: center;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.field{
+  /* margin: 32px 0px; */
+  text-align: center;
+  /* padding: 40px; */
+   width: 1140px;
+}
+
+.fieldtext{
+  width: 900px;
+  padding:20px 40px;
+  margin-top: 32px;
+  box-sizing: border-box;
+  border-bottom: 1px solid rgba(14, 14, 14, 0.15);
+  background: rgb(255, 255, 255);
+}
+/* donate part css end */
 /* main part css end */
