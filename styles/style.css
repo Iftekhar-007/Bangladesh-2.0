@@ -327,12 +327,28 @@ background: rgb(247, 235, 207);
   color: #ffffff;
 }
 
+.card-button:hover{
+  color:rgb(84, 144, 245) ;
+  background-color: #ffffff;
+  cursor: pointer;
+}
+
 .card-button2{
   background: rgb(9, 161, 92);
 }
 
+.card-button2:hover{
+  color:rgb(9, 161, 92) ;
+  background-color: #ffffff;
+}
+
 .card-button3{
   background: rgb(255, 194, 57);
+}
+
+.card-button3:hover{
+  color:rgb(255, 194, 57) ;
+  background-color: #ffffff;
 }
 /* vision css end */
 
