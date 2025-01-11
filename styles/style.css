@@ -629,13 +629,13 @@ background: rgb(247, 235, 207);
   color: rgb(255, 255, 255);
   font-size: 18px;
   line-height: 22px;
+  cursor: pointer;
 }
 
 .donate-button:hover{
   color:rgb(0, 106, 80) ;
   background-color: rgb(255, 255, 255);
   box-shadow: 0px 0px 5px;
-  cursor: pointer;
 }
 /* donate part css end */
 
