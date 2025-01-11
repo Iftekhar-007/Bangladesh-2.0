@@ -259,4 +259,182 @@ main{
 }
 /* pillars parts css ends */
 
+/* vision css start */
+
+.vision{
+  margin-bottom: 32px;
+}
+
+.vision-box{
+  display: flex;
+  gap: 24px;
+}
+
+.vision-card1{
+  padding: 32px;
+  border-radius: 16px;
+  background: rgba(84, 144, 245, 0.2);
+}
+
+.visionh2{
+  font-size: 40px;
+  line-height: 48px;
+  color: rgb(14, 14, 14);
+}
+
+.visionintro{
+  font-size: 16px;
+  line-height: 24px;
+  margin: 24px 0px 32px 0px;
+  color: rgba(14, 14, 14, 0.7)
+}
+
+.vision-title{
+  font-size: 20px;
+  line-height: 24px;
+  color: rgba(14, 14, 14, 0.8);
+  margin: 24px 0px;
+}
+
+.visionp{
+  font-size: 16px;
+  font-weight: 400;
+  color: rgba(14, 14, 14, 0.7);
+  line-height: 24px;
+}
+
+.card-button{
+  margin: 24px 0px;
+}
+
+.vision-card2{
+  border-radius: 16px;
+background: rgb(198, 228, 214);
+}
+
+.vision-card3{
+  border-radius: 16px;
+background: rgb(247, 235, 207);
+}
+
+.card-button{
+  border-radius: 8px;
+  background: rgb(84, 144, 245);
+  padding: 11px 20px;
+  border: none;
+  font-size: 16px;
+  line-height: 19px;
+  color: #ffffff;
+}
+
+.card-button2{
+  background: rgb(9, 161, 92);
+}
+
+.card-button3{
+  background: rgb(255, 194, 57);
+}
+/* vision css end */
+
+/* quote css start */
+
+.quote{
+  margin-bottom: 80px;
+}
+
+.quote-container{
+  padding: 48px 24px;
+  border: 1px solid rgba(14, 14, 14, 0.15);
+  border-radius: 16px;
+  background: rgb(255, 255, 255);
+  position: relative;
+}
+
+.quoteimage{
+  position: absolute;
+  margin-top: -22px;
+}
+
+.quote-intro{
+  font-size: 16px;
+  line-height: 24px;
+  color: rgba(14, 14, 14, 0.8);
+  margin-bottom: 12px;
+}
+
+.younus{
+  color: rgba(14, 14, 14, 0.8);
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.younusintro{
+  color: rgba(14, 14, 14, 0.6);
+  font-size: 16px;
+  line-height: 24px;
+}
+/* quote css end */
+
+/* opinion css start */
+
+.opinionh2{
+  font-size: 40px;
+  line-height: 48px;
+  color: rgb(14, 14, 14);
+  margin-bottom: 24px;
+}
+
+.opinion-chart{
+  padding: 32px;
+  background-color: #ffffff;
+  border-radius: 16px;
+}
+
+.chart-head{
+  padding: 24px;
+  display: flex;
+  justify-content: space-between;
+  /* border: 1px solid gray; */
+  border: 1px solid rgba(14, 14, 14, 0.15);
+  background: rgb(198, 228, 214)
+}
+
+.optionss{
+  padding: 24px;
+  display: flex;
+  /* border: 1px solid gray; */
+  border: 1px solid rgba(14, 14, 14, 0.15);
+  background: rgba(255, 255, 255, 0.1);
+  align-items: center;
+}
+
+.q1{
+  width: 1017px;
+  color: rgb(14, 14, 14);
+  font-family: Fira Sans;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 19px;
+}
+
+.answer{
+  width: 200px;
+  padding: 12px;
+  border: 1px solid rgb(14, 14, 14);
+  border-radius: 4px;
+  background: rgb(198, 228, 214);
+  color: rgb(14, 14, 14);
+  font-family: Fira Sans;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19px;
+}
+
+.question , .choose{
+  color: rgb(14, 14, 14);
+  font-size: 20px;
+  line-height: 24px;
+}
+/* opinion css end */
+
 /* main part css end */
